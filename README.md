@@ -10,7 +10,7 @@ reason about) objects and their properties.
 * [First-order logic notes](first-order-logic.pdf) (recommendend)
 
 Notes are for a deeper study. If you are new to logic, you may skip this reading
-for now.
+for now, except perhaps parts related to bondage, freedom, and scope.
 
 
 ## Our notation
@@ -21,7 +21,7 @@ We will use the following symbols in writing logical formulas:
 |--------|---------|
 | `A`    | universal quantifier |
 | `E`    | existential quantifier |
-! `~`    | negation |
+| `~`    | negation |
 | `&`    | conjunction |
 | `V`    | disjunction |
 | `>`    | conditional |
